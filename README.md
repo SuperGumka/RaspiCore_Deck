@@ -6,7 +6,7 @@ RaspiCore™ Deck is a high-performance handheld emulation console built around 
 The device features a custom DIY power bank capable of supplying up to 8 amps, ensuring stable performance even under heavy load and extended gaming sessions.
 
 Running on a lightweight 64-bit Raspberry Pi OS Bookworm Lite with RetroPie installed, the system provides a flexible and customizable environment for emulation, allowing users to run a wide range of classic consoles through optimized third-party emulators.
- ## 📋Bill of Materials:
+ # 📋Bill of Materials:
 | Name | Purpose | Quanity | Price | Link | Distributor |
 |------|---------|---------|-------|------|-------------|
 | On-Off switch (For power bank)| On-Off switch used to turn On/Off the power bank.(The listed price is for 5 pieces but only 1 piece is used.) | 1 | $1.13 | [Link](https://pl.aliexpress.com/item/1005007945027854.html?spm=a2g0o.order_list.order_list_main.265.f8191c24WFr5Z1&gatewayAdapt=glo2pol) | AliExpress |
