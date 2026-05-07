@@ -6,6 +6,8 @@ RaspiCore™ Deck is a high-performance handheld emulation console built around 
 The device features a custom DIY power bank capable of supplying up to 8 amps, ensuring stable performance even under heavy load and extended gaming sessions.
 
 Running on a lightweight 64-bit Raspberry Pi OS Bookworm Lite with RetroPie installed, the system provides a flexible and customizable environment for emulation, allowing users to run a wide range of classic consoles through optimized third-party emulators.
+## Why I decided to make this
+For 2 years from now I'm interested in electric engineering, and in that time I made lots of small electrionic pcbs and devices. But I wanted to build something original and better than this 30 minutes pcb projects, so i decide to give a try building a handheld console using raspberry pi 5 and named it _RaspiCore™ Deck._
 ## 📐 CAD Design
 ### Power Bank's case
 ![Isometric View 1](Model_Pictures/Case.png)
